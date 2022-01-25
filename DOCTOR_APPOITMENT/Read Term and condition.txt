@@ -1,0 +1,3 @@
+database name should be "db2_doc_appoitment".
+admin name = "kanchon@gmail.com"
+password = "1234"
